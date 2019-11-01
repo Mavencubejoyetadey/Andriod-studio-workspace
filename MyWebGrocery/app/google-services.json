@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "693887330197",
+    "firebase_url": "https://myweb-fdcc7.firebaseio.com",
+    "project_id": "myweb-fdcc7",
+    "storage_bucket": "myweb-fdcc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693887330197:android:3d08c2ee4c3fce61",
+        "android_client_info": {
+          "package_name": "com.mavencube.joyetadey.myweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693887330197-gb9vd70vc8rpkkavvmckvfn25bf4lgut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDabSatUwjijeOlMIiYJEHWnENMStLjwZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
